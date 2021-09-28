@@ -1,0 +1,1 @@
+var parrafo = Document.CreateElementById("parrafo")
